@@ -13,5 +13,4 @@ trait Context {
       .builder()
       .config(sparkConf)
       .getOrCreate()
-
 }
